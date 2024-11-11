@@ -4,7 +4,7 @@ Os equipos ned, rob serán os servidores dns para o dominio stark.lan (Debian) e
 
 Instala no equipo tyrion (Windows) o rol de servidor DHCP coa seguinte configuración: (deberás ter apagados os servidores DHCP do punto anterior)
 
-![ref1]
+![](imagenes/imagen.png)
 
 Un ámbito para os equipos da rede privada lanister, con un intervalo de exclusión.
 
